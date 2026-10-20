@@ -1,0 +1,10 @@
+{
+  "name": "Clara AI - Cloud & Neural Master Assistant",
+  "description": "Enterprise cloud neural reasoning assistant featuring 10 Master Modules: ClaraBrain, ClaraVoice, ClaraConnect, ClaraDaily, ClaraFiles, ClaraStudio, ClaraCoder, ClaraSearch, ClaraUI, and ClaraGuard.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
